@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Ok");
         System.out.println("Ok1");
         System.out.println("LOLLLL");
-        System.out.println("DEMO!!!");
+        System.out.println("!!!");
     }
 }
